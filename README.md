@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
