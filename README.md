@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0389-find-the-difference](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0148-sort-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
