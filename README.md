@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0575-distribute-candies](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0682-baseball-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0148-sort-list/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -118,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
