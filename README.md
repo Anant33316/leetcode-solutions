@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1046-last-stone-weight](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0682-baseball-game/) | Easy |
+| [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3174-clear-digits](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -122,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
