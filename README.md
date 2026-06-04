@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0575-distribute-candies](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0682-baseball-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0682-baseball-game/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0739-daily-temperatures](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1046-last-stone-weight](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0575-distribute-candies](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0575-distribute-candies/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0389-find-the-difference](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [3174-clear-digits](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3174-clear-digits/) | Easy |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Two Pointers
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1046-last-stone-weight](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Quickselect
@@ -144,8 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
