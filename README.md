@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0739-daily-temperatures](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0148-sort-list/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
