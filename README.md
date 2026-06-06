@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0389-find-the-difference](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0520-detect-capital](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1544-make-the-string-great/) | Easy |
