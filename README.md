@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0682-baseball-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0704-binary-search](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0704-binary-search](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0704-binary-search/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
