@@ -220,4 +220,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
