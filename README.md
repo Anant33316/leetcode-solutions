@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2469-convert-the-temperature/) | Easy |
