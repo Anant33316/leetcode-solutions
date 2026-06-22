@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
