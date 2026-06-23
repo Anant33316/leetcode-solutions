@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2469-convert-the-temperature](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Tree
