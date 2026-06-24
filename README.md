@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2469-convert-the-temperature](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
