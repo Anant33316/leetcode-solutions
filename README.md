@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2469-convert-the-temperature](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0682-baseball-game/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3174-clear-digits](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
