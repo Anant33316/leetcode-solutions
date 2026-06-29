@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3174-clear-digits](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3174-clear-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
