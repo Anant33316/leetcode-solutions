@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
