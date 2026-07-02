@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3174-clear-digits](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3174-clear-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
