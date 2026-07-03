@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
