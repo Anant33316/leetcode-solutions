@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0100-same-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
