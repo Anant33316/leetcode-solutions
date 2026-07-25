@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
