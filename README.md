@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0575-distribute-candies](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0575-distribute-candies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0704-binary-search/) | Easy |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0506-relative-ranks/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0912-sort-an-array/) | Medium |
