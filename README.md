@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
