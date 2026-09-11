@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2974-minimum-number-game](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Anant33316/leetcode-java-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Anant33316/leetcode-java-solutions/tree/main/1291-sequential-digits/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Anant33316/leetcode-java-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Anant33316/leetcode-java-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
